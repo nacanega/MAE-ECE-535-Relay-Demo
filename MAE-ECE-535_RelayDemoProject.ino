@@ -102,7 +102,7 @@ void translateIR() {          // takes action based on IR code received
       dih(); eh(); dah(); eh(); dih(); eh(); dih(); en();
       dih(); eh(); dah(); eh(); dih(); eh(); dih(); en();
       dah(); eh(); dah(); eh(); dah(); en();
-      dah(); eh(); dih(); eh(); dah(); eh(); dih(); eh(); dah; eh(); dah(); em();
+      dah(); eh(); dih(); eh(); dah(); eh(); dih(); eh(); dah(); eh(); dah(); em();
       break;
     case 0xE619FF00: 
       //Serial.println("EQ");    
