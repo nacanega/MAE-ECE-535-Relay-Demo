@@ -31,7 +31,7 @@ Arduino Sketch containting the code needed to run the demo. Includes the followi
 
 Requires that the following schematic be wired prior to uploading to your Arduino:
 
-![alt text](https://github.com/nacanega/MAE-ECE-535-Relay-Demo/blob/51914a9584024ef7103f6e732599cca97b6b6cd0/MAE-ECE-535_Relay_Demo_Project_Schematics_black.png "Circuit/Wiring Diagram of Relay Demonstrator")
+![alt text](https://github.com/nacanega/MAE-ECE-535-Relay-Demo/blob/4f1f3b39f3f0a0d8d5fb91893703d6eb8494cf62/MAE-ECE-535_Relay_Demo_Project_Schematics_black.png "Circuit/Wiring Diagram of Relay Demonstrator")
 
 #### Notes
   * The fast forward and fast back functions can be used to adjust to your relay so that the Morse code is decipherable
